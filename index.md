@@ -7,7 +7,7 @@ title: PyBpod
 excerpt: Real-time behaviour measurement software
 header:
     overlay_color: "#333"
-    overlay_image: /assets/pybpod2.png
+    overlay_image: /assets/images/pybpod2.png
 
 ---
 

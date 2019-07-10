@@ -23,12 +23,12 @@ PyBpod has several plugins and modules for different purposes. The ones develope
 # Community #
 There are also some plugins developed by the PyBpod's community.
 
+{:.notice--info}
+**Note:** These plugins might or might not work with the latest PyBpod version. Please check their respective documentation to confirm for which PyBpod version they were developed.
+
 The following plugins were developed by the _de la Rocha_ lab:
 * Water calibration ([BitBucket](https://bitbucket.org/delaRochaLab/water-calibration-plugin/){:target="_blank"})
 * Graphics Trend plugin for 2FC tasks ([BitBucket](https://bitbucket.org/delaRochaLab/trend-2fc-plugin/src/master-3A/){:target="_blank"})
 * Raster plot visualization of live or recorded sessions ([BitBucket](https://bitbucket.org/delaRochaLab/raster-plugin/){:target="_blank"})
 * Sound calibration ([BitBucket](https://bitbucket.org/delaRochaLab/sound-calibration-plugin/src/master-3A/){:target="_blank"})
 
-
-{:.message .is-info}
-**Note:** These plugins might or might not work with the latest PyBpod version. Please check their respective documentation to confirm for which PyBpod version they were developed.

@@ -27,6 +27,8 @@ feature_row:
 ![image-right](/assets/images/bpod.jpg){: .align-right}
 Bpod is a system from [Sanworks](https://sanworks.io){:target="_blank"} for precise measurement of small animal behavior. It is a family of open source hardware devices which includes also software and firmware to control these devices. The software was originally developed in MATLAB providing retro-compatibility with the BControl system.
 
+<i class="fa fa-camera-retro fa-5x"></i>  <i class="fa fa-book fa-5x"></i> 
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}

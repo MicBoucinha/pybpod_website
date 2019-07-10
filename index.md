@@ -8,11 +8,28 @@ excerpt: Real-time behaviour measurement software
 header:
     overlay_color: "#333"
     overlay_image: /assets/images/pybpod2.png
+feature_row:
+  - image_path: /assets/images/generate_sound2.png
+    alt: "placeholder image 1"
+    title: "Uuuhh so pretty"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/generate_sound2.png
+    alt: "placeholder image 2"
+    title: "Documentation"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/generate_sound2.png
+    title: "Plugins"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 ---
 
 # Bpod #
 Bpod is a system from [Sanworks](https://sanworks.io){:target="_blank"} for precise measurement of small animal behavior. It is a family of open source hardware devices which includes also software and firmware to control these devices. The software was originally developed in MATLAB providing retro-compatibility with the BControl system.
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
 
 {% highlight python linenos %}
 def my_softcode_handler(data):

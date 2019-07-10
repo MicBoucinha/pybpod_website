@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: PyBpod
+title: PYBPOD
+name: "Scientific Software Platform, Champalimaud Foundation"
 email: swp@research.fchampalimaud.org
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -50,10 +51,14 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       url: "https://bitbucket.org/fchampalimaud/pybpod-gui-plugin/"
     - label: "Read the docs"
-      icon: "fab fa-fw fa-book"
+      icon: "fas fa-fw fa-book"
       url: "https://pybpod.readthedocs.io"
 
+author:
+  name: "Scientific Software Platform, Champalimaud Foundation"
+  email: swp@research.fchampalimaud.org
 
+# url: "https://your-website.com"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

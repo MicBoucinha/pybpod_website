@@ -23,7 +23,7 @@ feature_row:
 
 ---
 
-# Bpod #
+# Bpod State Machine #
 ![image-right](/assets/images/bpod.jpg){: .align-right}
 Bpod is a system from [Sanworks](https://sanworks.io){:target="_blank"} for precise measurement of small animal behavior. It is a family of open source hardware devices which includes also software and firmware to control these devices. The software was originally developed in MATLAB providing retro-compatibility with the BControl system.
 
@@ -67,4 +67,4 @@ Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl eu arcu faucib
 
 
 # Documentation #
-For further information, please check the PyBpod's Read the Docs page at: (https://pybpod.readthedocs.io)[https://pybpod.readthedocs.io]{target="_blank"}
+For further information, please check the PyBpod's Read the Docs page at [https://pybpod.readthedocs.io](https://pybpod.readthedocs.io){:target="_blank"} 

@@ -12,7 +12,6 @@ header:
 PyBpod has several plugins and modules for different purposes. The ones developed by our team are:
 
 * Session history ([BitBucket](https://bitbucket.org/fchampalimaud/pybpod-gui-plugin-session-history/){:target="_blank"})
-* Session 
 * Trial timeline ([BitBucket](https://bitbucket.org/fchampalimaud/pybpod-gui-plugin-trial-timeline/))
 * Alyx module ([BitBucket](https://bitbucket.org/fchampalimaud/pybpod-alyx-module/){:target="_blank"})
 * Wave player ([BitBucket](https://bitbucket.org/fchampalimaud/pybpod-gui-plugin-waveplayer/){:target="_blank"})
@@ -20,11 +19,10 @@ PyBpod has several plugins and modules for different purposes. The ones develope
 * Harp Sound card module ([Documentation](https://pybpod-soundcard-module.readthedocs.io/){:target="_blank"}, [BitBucket](https://bitbucket.org/fchampalimaud/pybpod-soundcard-module/){:target="_blank"})
 * Emulator module ([Documentation](https://pybpod-gui-plugin-emulator.readthedocs.io/){:target="_blank"}, [BitBucket](https://bitbucket.org/fchampalimaud/pybpod-gui-plugin-emulator/){:target="_blank"})
 
+More information can be found at the Bpod's project page in BitBucket [here](https://bitbucket.org/account/user/fchampalimaud/projects/BPOD){:target="_blank"}.
+
 # Community #
 There are also some plugins developed by the PyBpod's community.
-
-{:.notice--info}
-**Note:** These plugins might or might not work with the latest PyBpod version. Please check their respective documentation to confirm for which PyBpod version they were developed.
 
 The following plugins were developed by the _de la Rocha_ lab:
 * Water calibration ([BitBucket](https://bitbucket.org/delaRochaLab/water-calibration-plugin/){:target="_blank"})
@@ -32,3 +30,5 @@ The following plugins were developed by the _de la Rocha_ lab:
 * Raster plot visualization of live or recorded sessions ([BitBucket](https://bitbucket.org/delaRochaLab/raster-plugin/){:target="_blank"})
 * Sound calibration ([BitBucket](https://bitbucket.org/delaRochaLab/sound-calibration-plugin/src/master-3A/){:target="_blank"})
 
+{:.notice--info}
+**Note:** These plugins might not work with the latest PyBpod version. Please check their respective documentation to confirm for which PyBpod version they were developed.

@@ -11,15 +11,15 @@ header:
 feature_row:
   - image_path: /assets/images/generate_sound2.png
     alt: "placeholder image 1"
-    title: "Uuuhh so pretty"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Easy to install"
+    excerpt: "Available through Python Package Index (PyPI) with ``` pip install pybpod ``` \n\nMore detailed installation instructions on the _Installing and Updating_ section of the documentation."
   - image_path: /assets/images/generate_sound2.png
     alt: "placeholder image 2"
     title: "Documentation"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/generate_sound2.png
     title: "Plugins"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Extensibility through plugins. Please see the Plugins page for a list of available plugins.\n\nInstructions to guide you to start developing your own plugins are available in the documentation"
 
 ---
 
@@ -28,6 +28,12 @@ feature_row:
 Bpod is a system from [Sanworks](https://sanworks.io){:target="_blank"} for precise measurement of small animal behavior. It is a family of open source hardware devices which includes also software and firmware to control these devices. The software was originally developed in MATLAB providing retro-compatibility with the BControl system.
 
 <i class="fa fa-camera-retro fa-5x"></i>  <i class="fa fa-book fa-5x"></i> 
+
+wee
+
+![python-logo](/assets/images/Python-logo-notext.svg) <i class="fab fa-python fa-5x"></i> 
+
+weeeee
 
 {% include feature_row id="intro" type="center" %}
 

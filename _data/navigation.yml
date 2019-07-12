@@ -1,4 +1,7 @@
 main:
+  - title: Documentation
+    url: https://pybpod.readthedocs.io
+    description: \" target="_blank"
   - title: Plugins
     url: /plugins/
   - title: About

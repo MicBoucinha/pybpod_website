@@ -6,10 +6,14 @@ layout: splash
 title: Plugins
 header:
     overlay_color: "#333"
+    overlay_image: /assets/images/task-example.png
 ---
 
 # Plugins and modules #
 PyBpod has several plugins and modules for different purposes. The ones developed by our team are:
+
+{:.notice--info}
+**Note:** All the links below will open on a new tab/window depending on your browser's configuration.
 
 * Session history ([BitBucket](https://bitbucket.org/fchampalimaud/pybpod-gui-plugin-session-history/){:target="_blank"})
 * Trial timeline ([BitBucket](https://bitbucket.org/fchampalimaud/pybpod-gui-plugin-trial-timeline/))
@@ -22,9 +26,7 @@ PyBpod has several plugins and modules for different purposes. The ones develope
 More information can be found at the Bpod's project page in BitBucket [here](https://bitbucket.org/account/user/fchampalimaud/projects/BPOD){:target="_blank"}.
 
 # Community #
-There are also some plugins developed by the PyBpod's community.
-
-The following plugins were developed by the _de la Rocha_ lab:
+There are also some plugins developed by the PyBpod's community. The following plugins were developed by the _de la Rocha_ lab:
 * Water calibration ([BitBucket](https://bitbucket.org/delaRochaLab/water-calibration-plugin/){:target="_blank"})
 * Graphics Trend plugin for 2FC tasks ([BitBucket](https://bitbucket.org/delaRochaLab/trend-2fc-plugin/src/master-3A/){:target="_blank"})
 * Raster plot visualization of live or recorded sessions ([BitBucket](https://bitbucket.org/delaRochaLab/raster-plugin/){:target="_blank"})

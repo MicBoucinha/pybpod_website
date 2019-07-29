@@ -2,6 +2,9 @@ main:
   - title: Documentation
     url: https://pybpod.readthedocs.io
     description: \" target="_blank"
+  - title: Source code
+    url: https://bitbucket.org/fchampalimaud/pybpod/
+    description: \" target="_blank"
   - title: Plugins
     url: /plugins/
   - title: About

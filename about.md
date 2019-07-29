@@ -31,6 +31,8 @@ All examples and Bpod’s state machine and communication logic were based on th
 {% include feature_row id="feature_row_swp" type="left" %}
 
 
+{% include map.html %}
+
 <!-- <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=champalimaud%20foundation&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de">Pureblack.de - Webseite erstellen lassen</a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div> -->
 
 [jekyll-organization]: https://github.com/jekyll

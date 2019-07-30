@@ -32,8 +32,9 @@ feature_row:
 {% endcapture %}
 
 ![bpod state machine](/assets/images/bpod.jpg){: .align-right}
-# Bpod State Machine #
-Bpod is a system from [Sanworks](https://sanworks.io){:target="_blank"} {% include external-link.html %} for precise measurement of small animal behavior. It is a family of open source hardware devices which includes also software and firmware to control these devices. 
+# Bpod #
+Bpod is a system from [Sanworks](https://sanworks.io){:target="_blank"} {% include external-link.html %} for precise measurement of small animal behaviour. It is a family of open source hardware devices which includes also software and firmware to control these devices. The Bpod State Machine can connect to different modules
+such as a Valve Driver, Analog Input, Analog Output, an Optical Lickmeter, among others. More information regarding available modules can be found at [Sanworks Store website](https://sanworks.io/shop/products.php?productFamily=bpod){:target="_blank"} {% include external-link.html %}.
 
 The software was originally developed in MATLAB providing retro-compatibility with the BControl system.
 
@@ -41,6 +42,7 @@ The software was originally developed in MATLAB providing retro-compatibility wi
   <h4>For further information please check the following links</h4>
   {{ notice-text | markdownify }}
 </div>
+
 {% include feature_row id="intro" type="center" %}
 
 ![Python logo](/assets/images/Python-logo-notext.svg){: .align-right}

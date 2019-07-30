@@ -22,18 +22,38 @@ feature_row:
     excerpt: "Extensibility through plugins. Please see the Plugins page for a list of available plugins.\n\nInstructions to guide you to start developing your own plugins are available in the documentation"
 
 ---
+{% capture notice-text %}
+* [Bpod device](https://sanworks.io/shop/viewproduct?productID=1024){:target="_blank"} {% include external-link.html %}
+* [Bpod on Github](https://github.com/sanworks/Bpod){:target="_blank"} {% include external-link.html %}
+* [Bpod Wiki](https://sites.google.com/site/bpoddocumentation/){:target="_blank"} {% include external-link.html %}
+* [BControl project](http://brodywiki.princeton.edu/bcontrol/index.php/Main_Page/){:target="_blank"} {% include external-link.html %}
+{% endcapture %}
 
+![bpod state machine](/assets/images/bpod.jpg){: .align-right}
 # Bpod State Machine #
-![image-right](/assets/images/bpod.jpg){: .align-right}
-Bpod is a system from [Sanworks](https://sanworks.io){:target="_blank"} for precise measurement of small animal behavior. It is a family of open source hardware devices which includes also software and firmware to control these devices. The software was originally developed in MATLAB providing retro-compatibility with the BControl system.
+Bpod is a system from [Sanworks](https://sanworks.io){:target="_blank"} {% include external-link.html %} for precise measurement of small animal behavior. It is a family of open source hardware devices which includes also software and firmware to control these devices. 
 
-<i class="fa fa-camera-retro fa-5x"></i>  <i class="fa fa-book fa-5x"></i> 
+The software was originally developed in MATLAB providing retro-compatibility with the BControl system.
+
+<div class="notice--info">
+  <h4>For further information please check the following links</h4>
+  {{ notice-text | markdownify }}
+</div>
+{% include feature_row id="intro" type="center" %}
+
+![Python logo](/assets/images/Python-logo-notext.svg){: .align-right}
+# PyBpod #
+PyBpod is a Python port of the [Bpod Matlab project](https://github.com/sanworks/Bpod>){:target="_blank"} {% include external-link.html %}. It is a GUI application that enables interaction with the latest [Bpod devices](https://sanworks.io/shop/products.php?productFamily=bpod){:target="_blank"} {% include external-link.html %}.
+
+This project is maintained by a team of software developers at the [Champalimaud Foundation](http://research.fchampalimaud.org){:target="_blank"} {% include external-link.html %}.
+
+<!-- <i class="fa fa-camera-retro fa-5x"></i>  <i class="fa fa-book fa-5x"></i> 
 
 wee
 
 ![python-logo](/assets/images/Python-logo-notext.svg) <i class="fab fa-python fa-5x"></i> 
 
-weeeee
+weeeee -->
 
 {% include feature_row id="intro" type="center" %}
 

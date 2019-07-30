@@ -3,7 +3,7 @@ layout: splash
 title: About
 header:
     overlay_color: "#333"
-feature_row:
+feature_row_fc:
   - image_path: /assets/images/fc-logo.png
     alt: "Champalimaud Foundation logo"
     excerpt: |
@@ -19,20 +19,28 @@ feature_row_swp:
     alt: "Scientific Software Platform logo"
     excerpt: |
         **Email**  
-        Contact us through: [software@research.fchampalimaud.org](mailto:software@research.fchampalimaud.org)
+        Contact us through: [software@research.fchampalimaud.org](mailto:software@research.fchampalimaud.org)  
 ---
-PyBpod is a Python port of the [Bpod Matlab project](https://github.com/sanworks/Bpod){:target="_blank"} {% include external-link.html %}.
 
-All examples and Bpod’s state machine and communication logic were based on the original version made available by [Josh Sanders (Sanworks)](https://github.com/sanworks){:target="_blank"} {% include external-link.html %}.
+The Scientific Software Platform (SWP) from the Champalimaud Foundation provides technical know-how in software engineering and high quality software support for the Neuroscience and Cancer research community at the Champalimaud Foundation.
 
+We typical work on computer vision / tracking, behavioral experiments, image registration and database management.
+
+# Maintenance team #
+The current and past members of the **PyBpod** team are:
+* [@cajomferro](https://github.com/cajomferro/){:target="_blank"} {% include external-link.html %} Carlos Mão de Ferro
+* [@JBauto](https://github.com/JBauto){:target="_blank"} {% include external-link.html %} João Baúto
+* [@UmSenhorQualquer](https://github.com/UmSenhorQualquer/){:target="_blank"} {% include external-link.html %} Ricardo Ribeiro
+* [@MicBoucinha](https://github.com/MicBoucinha/){:target="_blank"} {% include external-link.html %} Luís Teixeira
+
+This project wouldn't also be possible without the community feedback. Thank you!
+
+If you have any questions or want to report a problem with PyBpod please fill out an issue [here](https://bitbucket.org/fchampalimaud/pybpod/issues?status=new&status=open>){:target="_blank"} {% include external-link.html %}.
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row id="feature_row" type="left" %}
 {% include feature_row id="feature_row_swp" type="left" %}
-
+{% include feature_row id="feature_row_fc" type="left" %}
 
 {% include map.html %}
-
-<!-- <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=champalimaud%20foundation&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de">Pureblack.de - Webseite erstellen lassen</a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div> -->
 
 [jekyll-organization]: https://github.com/jekyll

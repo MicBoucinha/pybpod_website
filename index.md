@@ -9,11 +9,13 @@ header:
     overlay_color: "#333"
     overlay_image: /assets/images/pybpod2.png
 feature_row:
-  - image_path: /assets/images/generate_sound2.png
+  - image_path: /assets/images/pypi.svg
     alt: "placeholder image 1"
-    title: "Easy to install"
-    excerpt: "Available through Python Package Index (PyPI) with ``` pip install pybpod ``` \n\nMore detailed installation instructions on the _Installing and Updating_ section of the documentation."
-  - image_path: /assets/images/generate_sound2.png
+    title: "Available in PyPI"
+    excerpt: |
+      Available through Python Package Index (PyPI) with ``` pip install pybpod ```  
+
+      More detailed installation instructions on the [Installing and updating](https://pybpod.readthedocs.io/en/v1.7.8/getting-started/install.html){:target="_blank"} <i class="fas fa-external-link-alt fa-xs"/> section of the documentation.
     alt: "placeholder image 2"
     title: "Documentation"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."

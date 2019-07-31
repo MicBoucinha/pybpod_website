@@ -16,6 +16,7 @@ feature_row:
       Available through Python Package Index (PyPI) with ``` pip install pybpod ```  
 
       More detailed installation instructions on the [Installing and updating](https://pybpod.readthedocs.io/en/v1.7.8/getting-started/install.html){:target="_blank"} <i class="fas fa-external-link-alt fa-xs"/> section of the documentation.
+  - image_path: /assets/images/rtd-logo-dark.png
     alt: "placeholder image 2"
     title: "Documentation"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -23,6 +24,46 @@ feature_row:
     title: "Plugins"
     excerpt: "Extensibility through plugins. Please see the Plugins page for a list of available plugins.\n\nInstructions to guide you to start developing your own plugins are available in the documentation"
 
+feature_row_code:
+  - image_path: /assets/images/bitbucket-logo-gradient-blue.svg
+    alt: "BitBucket logo"
+    title: "Open source"
+    excerpt: |
+      PyBpod's related code is hosted in several repositories on BitBucket.
+
+    url: "https://bitbucket.org/account/user/fchampalimaud/projects/BPOD"
+    btn_label: "PyBpod on BitBucket"
+    btn_class: "btn--inverse"
+feature_row_pypi:
+  - image_path: /assets/images/pypi.png
+    alt: "PyPI logo"
+    title: "Available in PyPI"
+    excerpt: |
+      Available through Python Package Index (PyPI) with  
+      ``` pip install pybpod ```  
+
+      More detailed installation instructions on the [Installing and updating](https://pybpod.readthedocs.io/en/v1.7.8/getting-started/install.html){:target="_blank"} <i class="fas fa-external-link-alt fa-xs"/> section of the documentation.
+    url: "https://pypi.org/project/pybpod/"
+    btn_label: "PyBpod on PyPI"
+    btn_class: "btn--inverse"
+feature_row_rtd:
+  - image_path: /assets/images/rtd-logo-wordmark-dark.svg
+    alt: "Read the docs wordmark logo"
+    title: "Documentation"
+    excerpt: |
+      Extensive documentation available online and hosted on Read the Docs.
+
+
+    url: "https://pybpod.readthedocs.io"
+    btn_label: "PyBpod on Read the Docs"
+    btn_class: "btn--inverse"
+feature_row_plugins:
+  - image_path: /assets/images/plugins-team.png
+    title: "Extensible"
+    excerpt: "PyBpod was designed from the start with extensibility in mind.You can use the plugins already developed to extend PyBpod's functionality or develop your own to fit your needs."
+    url: "/plugins"
+    btn_label: "See available plugins"
+    btn_class: "btn--inverse"
 ---
 {% capture notice-text %}
 * [Bpod device](https://sanworks.io/shop/viewproduct?productID=1024){:target="_blank"} {% include external-link.html %}
@@ -39,7 +80,7 @@ such as a Valve Driver, Analog Input, Analog Output, an Optical Lickmeter, among
 The software was originally developed in MATLAB providing retro-compatibility with the BControl system.
 
 <div class="notice--info">
-  <h4>For further information please check the following links</h4>
+  <h4>For further information on Bpod please check the following links</h4>
   {{ notice-text | markdownify }}
 </div>
 
@@ -51,17 +92,16 @@ PyBpod is a Python port of the [Bpod Matlab project](https://github.com/sanworks
 
 This project is maintained by a team of software developers at the [Champalimaud Foundation](http://research.fchampalimaud.org){:target="_blank"} {% include external-link.html %}.
 
-<!-- <i class="fa fa-camera-retro fa-5x"></i>  <i class="fa fa-book fa-5x"></i> 
-
-wee
-
-![python-logo](/assets/images/Python-logo-notext.svg) <i class="fab fa-python fa-5x"></i> 
-
-weeeee -->
-
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row_code" type="left" %}
+
+{% include feature_row id="feature_row_rtd" type="right" %}
+
+{% include feature_row id="feature_row_pypi" type="left" %}
+
+{% include feature_row id="feature_row_plugins" type="right" %}
+
 
 
 {% highlight python linenos %}

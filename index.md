@@ -8,21 +8,11 @@ excerpt: Real-time behaviour measurement software
 header:
     overlay_color: "#333"
     overlay_image: /assets/images/pybpod2.png
-feature_row:
-  - image_path: /assets/images/pypi.svg
-    alt: "placeholder image 1"
-    title: "Available in PyPI"
-    excerpt: |
-      Available through Python Package Index (PyPI) with ``` pip install pybpod ```  
-
-      More detailed installation instructions on the [Installing and updating](https://pybpod.readthedocs.io/en/v1.7.8/getting-started/install.html){:target="_blank"} <i class="fas fa-external-link-alt fa-xs"/> section of the documentation.
-  - image_path: /assets/images/rtd-logo-dark.png
-    alt: "placeholder image 2"
-    title: "Documentation"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/generate_sound2.png
-    title: "Plugins"
-    excerpt: "Extensibility through plugins. Please see the Plugins page for a list of available plugins.\n\nInstructions to guide you to start developing your own plugins are available in the documentation"
+    # actions:
+    # - label: "Documentation"
+    #   url: "https://pybpod.readthedocs.io"
+    # - label: "Source code"
+    #   url: "https://bitbucket.org/fchampalimaud/pybpod/"
 
 feature_row_code:
   - image_path: /assets/images/bitbucket-logo-gradient-blue.svg

@@ -76,7 +76,6 @@ The software was originally developed in MATLAB providing retro-compatibility wi
 
 {% include feature_row id="intro" type="center" %}
 
-![Python logo](/assets/images/Python-logo-notext.svg){: .align-right}
 # PyBpod #
 PyBpod is a Python port of the [Bpod Matlab project](https://github.com/sanworks/Bpod>){% include external-link.html %}. It is a GUI application that enables interaction with the latest [Bpod devices](https://sanworks.io/shop/products.php?productFamily=bpod){% include external-link.html %}.
 

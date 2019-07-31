@@ -48,7 +48,7 @@ feature_row_rtd:
     btn_label: "PyBpod on Read the Docs"
     btn_class: "btn--inverse"
 feature_row_plugins:
-  - image_path: /assets/images/plugins-team.png
+  - image_path: /assets/images/puzzle-team.svg
     title: "Extensible"
     excerpt: "PyBpod was designed from the start with extensibility in mind.You can use the plugins already developed to extend PyBpod's functionality or develop your own to fit your needs."
     url: "/plugins"

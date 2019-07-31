@@ -66,16 +66,16 @@ feature_row_plugins:
     btn_class: "btn--inverse"
 ---
 {% capture notice-text %}
-* [Bpod device](https://sanworks.io/shop/viewproduct?productID=1024){:target="_blank"} {% include external-link.html %}
-* [Bpod on Github](https://github.com/sanworks/Bpod){:target="_blank"} {% include external-link.html %}
-* [Bpod Wiki](https://sites.google.com/site/bpoddocumentation/){:target="_blank"} {% include external-link.html %}
-* [BControl project](http://brodywiki.princeton.edu/bcontrol/index.php/Main_Page/){:target="_blank"} {% include external-link.html %}
+* [Bpod device](https://sanworks.io/shop/viewproduct?productID=1024){% include external-link.html %}
+* [Bpod on Github](https://github.com/sanworks/Bpod){% include external-link.html %}
+* [Bpod Wiki](https://sites.google.com/site/bpoddocumentation/){% include external-link.html %}
+* [BControl project](http://brodywiki.princeton.edu/bcontrol/index.php/Main_Page/){% include external-link.html %}
 {% endcapture %}
 
 ![bpod state machine](/assets/images/bpod.jpg){: .align-right}
 # Bpod #
-Bpod is a system from [Sanworks](https://sanworks.io){:target="_blank"} {% include external-link.html %} for precise measurement of small animal behaviour. It is a family of open source hardware devices which includes also software and firmware to control these devices. The Bpod State Machine can connect to different modules
-such as a Valve Driver, Analog Input, Analog Output, an Optical Lickmeter, among others. More information regarding available modules can be found at [Sanworks Store website](https://sanworks.io/shop/products.php?productFamily=bpod){:target="_blank"} {% include external-link.html %}.
+Bpod is a system from [Sanworks](https://sanworks.io){% include external-link.html %} for precise measurement of small animal behaviour. It is a family of open source hardware devices which includes also software and firmware to control these devices. The Bpod State Machine can connect to different modules
+such as a Valve Driver, Analog Input, Analog Output, an Optical Lickmeter, among others. More information regarding available modules can be found at [Sanworks Store website](https://sanworks.io/shop/products.php?productFamily=bpod){% include external-link.html %}.
 
 The software was originally developed in MATLAB providing retro-compatibility with the BControl system.
 
@@ -88,9 +88,9 @@ The software was originally developed in MATLAB providing retro-compatibility wi
 
 ![Python logo](/assets/images/Python-logo-notext.svg){: .align-right}
 # PyBpod #
-PyBpod is a Python port of the [Bpod Matlab project](https://github.com/sanworks/Bpod>){:target="_blank"} {% include external-link.html %}. It is a GUI application that enables interaction with the latest [Bpod devices](https://sanworks.io/shop/products.php?productFamily=bpod){:target="_blank"} {% include external-link.html %}.
+PyBpod is a Python port of the [Bpod Matlab project](https://github.com/sanworks/Bpod>){% include external-link.html %}. It is a GUI application that enables interaction with the latest [Bpod devices](https://sanworks.io/shop/products.php?productFamily=bpod){% include external-link.html %}.
 
-This project is maintained by a team of software developers at the [Champalimaud Foundation](http://research.fchampalimaud.org){:target="_blank"} {% include external-link.html %}.
+This project is maintained by a team of software developers at the [Champalimaud Foundation](http://research.fchampalimaud.org){% include external-link.html %}.
 
 {% include feature_row id="intro" type="center" %}
 

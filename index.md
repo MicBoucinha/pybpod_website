@@ -8,11 +8,11 @@ excerpt: Real-time behaviour measurement software
 header:
     overlay_color: "#333"
     overlay_image: /assets/images/pybpod2.png
-    # actions:
-    # - label: "Documentation"
-    #   url: "https://pybpod.readthedocs.io"
-    # - label: "Source code"
-    #   url: "https://bitbucket.org/fchampalimaud/pybpod/"
+    actions:
+    - label: "Documentation"
+      url: "https://pybpod.readthedocs.io"
+    - label: "Source code"
+      url: "https://bitbucket.org/fchampalimaud/pybpod/"
 
 feature_row_code:
   - image_path: /assets/images/bitbucket-logo-gradient-blue.svg

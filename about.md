@@ -38,14 +38,14 @@ This project wouldn't also be possible without the community feedback. Thank you
 
 If you have any questions or want to report a problem with PyBpod please fill out an issue [here](https://bitbucket.org/fchampalimaud/pybpod/issues?status=new&status=open>).
 
-<!-- {% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row_swp" type="left" %}
-{% include feature_row id="feature_row_fc" type="left" %} -->
+{% include feature_row id="feature_row_fc" type="left" %}
 
-<!-- {% include map.html %} -->
+{% include map.html %}
 
 
 ### Special thanks ###
 Portions of this website are possible thanks to some free icons and images.
 
-<!-- <a href="https://www.freepik.com/free-vector/teamwork-connecting-jigsaw-puzzle-piece_3046727.htm">Teamwork vector created by rawpixel.com - www.freepik.com</a> -->
+<a href="https://www.freepik.com/free-vector/teamwork-connecting-jigsaw-puzzle-piece_3046727.htm">Teamwork vector created by rawpixel.com - www.freepik.com</a>

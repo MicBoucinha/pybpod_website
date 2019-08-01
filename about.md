@@ -4,6 +4,7 @@ layout: splash
 title: About
 header:
     overlay_color: "#333"
+    overlay_image: /assets/images/banner_fchampalimaud.jpg
 feature_row_fc:
   - image_path: /assets/images/fc-logo.png
     alt: "Champalimaud Foundation logo"

@@ -47,6 +47,4 @@ If you have any questions or want to report a problem with PyBpod please fill ou
 ### Special thanks ###
 Portions of this website are possible thanks to some free icons and images.
 
-<a href="https://www.freepik.com/free-vector/teamwork-connecting-jigsaw-puzzle-piece_3046727.htm">Teamwork vector created by rawpixel.com - www.freepik.com</a>
-
-[jekyll-organization]: https://github.com/jekyll
+<!-- <a href="https://www.freepik.com/free-vector/teamwork-connecting-jigsaw-puzzle-piece_3046727.htm">Teamwork vector created by rawpixel.com - www.freepik.com</a> -->

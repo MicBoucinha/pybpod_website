@@ -47,10 +47,6 @@ If you have any questions or want to report a problem with PyBpod please fill ou
 ### Special thanks ###
 Portions of this website are possible thanks to some free icons and images.
 
-<!-- <div>Icons made by <a href="https://www.flaticon.com/authors/those-icons" title="Those Icons">Those Icons</a> from <a href="https://www.flaticon.com/"                 title="Flaticon">www.flaticon.com</a> are licensed by <a href="http://creativecommons.org/licenses/by/3.0/"                 title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
-
-<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/"                 title="Flaticon">www.flaticon.com</a> are licensed by <a href="http://creativecommons.org/licenses/by/3.0/"                 title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div> -->
-
-<a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by rawpixel.com - www.freepik.com</a>
+<a href="https://www.freepik.com/free-vector/teamwork-connecting-jigsaw-puzzle-piece_3046727.htm">Teamwork vector created by rawpixel.com - www.freepik.com</a>
 
 [jekyll-organization]: https://github.com/jekyll

@@ -28,14 +28,14 @@ We typical work on computer vision / tracking, behavioral experiments, image reg
 
 # Maintenance team #
 The current and past members of the **PyBpod** team are:
-* [@cajomferro](https://github.com/cajomferro/){% include external-link.html %} Carlos Mão de Ferro
-* [@JBauto](https://github.com/JBauto){% include external-link.html %} João Baúto
-* [@UmSenhorQualquer](https://github.com/UmSenhorQualquer/){% include external-link.html %} Ricardo Ribeiro
-* [@MicBoucinha](https://github.com/MicBoucinha/){% include external-link.html %} Luís Teixeira
+* [@cajomferro](https://github.com/cajomferro/) Carlos Mão de Ferro
+* [@JBauto](https://github.com/JBauto) João Baúto
+* [@UmSenhorQualquer](https://github.com/UmSenhorQualquer/) Ricardo Ribeiro
+* [@MicBoucinha](https://github.com/MicBoucinha/) Luís Teixeira
 
 This project wouldn't also be possible without the community feedback. Thank you!
 
-If you have any questions or want to report a problem with PyBpod please fill out an issue [here](https://bitbucket.org/fchampalimaud/pybpod/issues?status=new&status=open>){% include external-link.html %}.
+If you have any questions or want to report a problem with PyBpod please fill out an issue [here](https://bitbucket.org/fchampalimaud/pybpod/issues?status=new&status=open>).
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row_swp" type="left" %}

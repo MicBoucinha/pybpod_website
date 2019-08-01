@@ -15,6 +15,9 @@ feature_row_fc:
         Avenida Brasília  
         1400-038 Lisbon  
         PORTUGAL  
+          
+        **Website**
+        [https://www.fchampalimaud.org/](https://www.fchampalimaud.org/){:target="_blank"} <i class="fas fa-external-link-alt fa-xs"/> 
     
 feature_row_swp:
   - image_path: /assets/images/logo_swp.png
@@ -22,6 +25,9 @@ feature_row_swp:
     excerpt: |
         **Email**  
         Contact us through: [software@research.fchampalimaud.org](mailto:software@research.fchampalimaud.org)  
+          
+        **Website**  
+        [https://www.fchampalimaud.org/platforms/single/scientific-software](https://www.fchampalimaud.org/platforms/single/scientific-software){:target="_blank"} <i class="fas fa-external-link-alt fa-xs"/> 
 ---
 
 The Scientific Software Platform (SWP) from the Champalimaud Foundation provides technical know-how in software engineering and high quality software support for the Neuroscience and Cancer research community at the Champalimaud Foundation.

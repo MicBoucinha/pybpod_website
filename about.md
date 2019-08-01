@@ -41,7 +41,7 @@ If you have any questions or want to report a problem with PyBpod please fill ou
 {% include feature_row id="feature_row_swp" type="left" %}
 {% include feature_row id="feature_row_fc" type="left" %}
 
-{% include map.html %}
+<!-- {% include map.html %} -->
 
 
 ### Special thanks ###

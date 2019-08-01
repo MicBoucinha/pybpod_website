@@ -47,9 +47,9 @@ defaults:
 
 footer:
   links:
-    - label: "BitBucket"
-      icon: "fab fa-fw fa-bitbucket"
-      url: "https://bitbucket.org/fchampalimaud/pybpod-gui-plugin/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/pybpod/"
     - label: "Read the docs"
       icon: "fas fa-fw fa-book"
       url: "https://pybpod.readthedocs.io"

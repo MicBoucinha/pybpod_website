@@ -12,17 +12,17 @@ header:
     - label: "Documentation"
       url: "https://pybpod.readthedocs.io"
     - label: "Source code"
-      url: "https://bitbucket.org/fchampalimaud/pybpod/"
+      url: "https://github.com/pybpod/pybpod"
 
 feature_row_code:
-  - image_path: /assets/images/bitbucket-logo-gradient-blue.svg
-    alt: "BitBucket logo"
+  - image_path: /assets/images/github_logo.png
+    alt: "Github logo"
     title: "Open source"
     excerpt: |
-      PyBpod's related code is hosted in several repositories on BitBucket.
+      PyBpod's related code is hosted in several repositories on GitHub.
 
-    url: "https://bitbucket.org/account/user/fchampalimaud/projects/BPOD"
-    btn_label: "PyBpod on BitBucket"
+    url: "https://github.com/pybpod/"
+    btn_label: "PyBpod on GitHub"
     btn_class: "btn--inverse"
 feature_row_pypi:
   - image_path: /assets/images/pypi.png

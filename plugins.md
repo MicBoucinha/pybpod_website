@@ -12,15 +12,15 @@ header:
 # Plugins and modules #
 PyBpod has several plugins and modules for different purposes. The ones developed by our team are:
 
-* Session history ([BitBucket](https://bitbucket.org/fchampalimaud/pybpod-gui-plugin-session-history/){% include external-link.html %})
-* Trial timeline ([BitBucket](https://bitbucket.org/fchampalimaud/pybpod-gui-plugin-trial-timeline/){% include external-link.html %})
-* Alyx module ([BitBucket](https://bitbucket.org/fchampalimaud/pybpod-alyx-module/){% include external-link.html %})
-* Wave player ([BitBucket](https://bitbucket.org/fchampalimaud/pybpod-gui-plugin-waveplayer/){% include external-link.html %})
-* Rotary encoder module ([Documentation](https://pybpod-api-rotary-encoder-module.readthedocs.io/){% include external-link.html %}, [BitBucket](https://bitbucket.org/fchampalimaud/pybpod-rotary-encoder-module){% include external-link.html %})
-* Harp Sound card module ([Documentation](https://pybpod-soundcard-module.readthedocs.io/){% include external-link.html %}, [BitBucket](https://bitbucket.org/fchampalimaud/pybpod-soundcard-module/){% include external-link.html %})
-* Emulator module ([Documentation](https://pybpod-gui-plugin-emulator.readthedocs.io/){% include external-link.html %}, [BitBucket](https://bitbucket.org/fchampalimaud/pybpod-gui-plugin-emulator/){% include external-link.html %})
+* Session history ([GitHub](https://github.com/pybpod/pybpod-gui-plugin-session-history){% include external-link.html %})
+* Trial timeline ([GitHub](https://github.com/pybpod/pybpod-gui-plugin-trial-timeline){% include external-link.html %})
+* Wave player ([GitHub](https://github.com/pybpod/pybpod-gui-plugin-waveplayer){% include external-link.html %})
+* Alyx module ([GitHub](https://github.com/pybpod/pybpod-gui-plugin-alyx){% include external-link.html %})
+* Rotary encoder module ([Documentation](https://pybpod-api-rotary-encoder-module.readthedocs.io/){% include external-link.html %}, [GitHub](https://github.com/pybpod/pybpod-gui-plugin-rotaryencoder){% include external-link.html %})
+* Harp Sound card module ([Documentation](https://pybpod-soundcard-module.readthedocs.io/){% include external-link.html %}, [GitHub](https://github.com/pybpod/pybpod-gui-plugin-soundcard){% include external-link.html %})
+* Emulator module ([Documentation](https://pybpod-gui-plugin-emulator.readthedocs.io/){% include external-link.html %}, [GitHub](https://github.com/pybpod/pybpod-gui-plugin-emulator){% include external-link.html %})
 
-More information can be found at the Bpod's project page in BitBucket [here](https://bitbucket.org/account/user/fchampalimaud/projects/BPOD){% include external-link.html %}.
+More information can be found at the PyBpod's page in GitHub [here](https://github.com/pybpod){% include external-link.html %}.
 
 # Community #
 There are also some plugins developed by the PyBpod's community. The following plugins were developed by the _de la Rocha_ lab:

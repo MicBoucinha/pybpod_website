@@ -43,7 +43,7 @@ The current and past members of the **PyBpod** team are:
 
 This project wouldn't also be possible without the community feedback. Thank you!
 
-If you have any questions or want to report a problem with PyBpod please fill out an issue [here](https://bitbucket.org/fchampalimaud/pybpod/issues?status=new&status=open>){% include external-link.html %}.
+If you have any questions or want to report a problem with PyBpod please fill out an issue [here](https://github.com/pybpod/pybpod/issues){% include external-link.html %}.
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row_swp" type="left" %}

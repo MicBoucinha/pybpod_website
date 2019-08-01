@@ -37,9 +37,9 @@ This project wouldn't also be possible without the community feedback. Thank you
 
 If you have any questions or want to report a problem with PyBpod please fill out an issue [here](https://bitbucket.org/fchampalimaud/pybpod/issues?status=new&status=open>).
 
-{% include feature_row id="intro" type="center" %}
+<!-- {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row_swp" type="left" %}
-{% include feature_row id="feature_row_fc" type="left" %}
+{% include feature_row id="feature_row_fc" type="left" %} -->
 
 <!-- {% include map.html %} -->
 

@@ -18,7 +18,16 @@ feature_row_fc:
           
         **Website**
         [https://www.fchampalimaud.org/](https://www.fchampalimaud.org/){:target="_blank"} <i class="fas fa-external-link-alt fa-xs"/> 
-    
+
+feature_row_ibl:
+  - image_path: /assets/images/ibl-logo.png
+    alt: "International Brain Laboratory logo"
+    excerpt: |
+        **Email**  
+        Contact us through: [info@internationalbrainlab.org](mailto:info@internationalbrainlab.org)
+          
+        **Website**  
+        [https://www.internationalbrainlab.com](https://www.internationalbrainlab.com){:target="_blank"} <i class="fas fa-external-link-alt fa-xs"/> 
 feature_row_swp:
   - image_path: /assets/images/logo_swp.png
     alt: "Scientific Software Platform logo"
@@ -52,6 +61,7 @@ If you have any questions or want to report a problem with PyBpod please fill ou
 ## Involved entities ##
 
 {% include feature_row id="feature_row_swp" type="left" %}
+{% include feature_row id="feature_row_ibl" type="left" %}
 {% include feature_row id="feature_row_fc" type="left" %}
 
 ## Location ##

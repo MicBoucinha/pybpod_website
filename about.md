@@ -28,6 +28,17 @@ feature_row_ibl:
           
         **Website**  
         [https://www.internationalbrainlab.com](https://www.internationalbrainlab.com){:target="_blank"} <i class="fas fa-external-link-alt fa-xs"/> 
+
+feature_row_sanworks:
+  - image_path: /assets/images/sanworks-logo.svg
+    alt: "Sanworks logo"
+    excerpt: |
+        **Email**  
+        Contact us through: [admin@sanworks.io](admin@sanworks.io)
+        
+        **Website**  
+        [https://sanworks.io](https://sanworks.io){:target="_blank"} <i class="fas fa-external-link-alt fa-xs"/> 
+
 feature_row_swp:
   - image_path: /assets/images/logo_swp.png
     alt: "Scientific Software Platform logo"
@@ -63,6 +74,7 @@ If you have any questions or want to report a problem with PyBpod please fill ou
 {% include feature_row id="feature_row_swp" type="left" %}
 {% include feature_row id="feature_row_ibl" type="left" %}
 {% include feature_row id="feature_row_fc" type="left" %}
+{% include feature_row id="feature_row_sanworks" type="left" %}
 
 ## Location ##
 
@@ -70,7 +82,6 @@ If you have any questions or want to report a problem with PyBpod please fill ou
 
 ## Acknowledgements ##
 
-### Special thanks ###
 Portions of this website are possible thanks to some free icons and images.
 
 <a href="https://www.freepik.com/free-vector/teamwork-connecting-jigsaw-puzzle-piece_3046727.htm">Teamwork vector created by rawpixel.com - www.freepik.com</a>

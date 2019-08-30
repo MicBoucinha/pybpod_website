@@ -34,8 +34,10 @@ The Scientific Software Platform (SWP) from the Champalimaud Foundation provides
 
 We typical work on computer vision / tracking, behavioral experiments, image registration and database management.
 
-# Maintenance team #
+## Maintenance team ##
+
 The current and past members of the **PyBpod** team are:
+
 * [@cajomferro](https://github.com/cajomferro/){% include external-link.html %} Carlos Mão de Ferro
 * [@JBauto](https://github.com/JBauto){% include external-link.html %} João Baúto
 * [@UmSenhorQualquer](https://github.com/UmSenhorQualquer/){% include external-link.html %} Ricardo Ribeiro
@@ -43,14 +45,20 @@ The current and past members of the **PyBpod** team are:
 
 This project wouldn't also be possible without the community feedback. Thank you!
 
+## Feedback ##
+
 If you have any questions or want to report a problem with PyBpod please fill out an issue [here](https://github.com/pybpod/pybpod/issues){% include external-link.html %}.
 
-{% include feature_row id="intro" type="center" %}
+## Involved entities ##
+
 {% include feature_row id="feature_row_swp" type="left" %}
 {% include feature_row id="feature_row_fc" type="left" %}
 
+## Location ##
+
 {% include map.html %}
 
+## Acknowledgements ##
 
 ### Special thanks ###
 Portions of this website are possible thanks to some free icons and images.
